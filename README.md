@@ -1,6 +1,6 @@
 # Google Cloud Data Analytics Project
 
-This repository contains code and configuration files for Google Cloud Data Analytics Project.This project demonstrates the integration of several GCP services to create an efficient and automated data pipeline for sales data
+This repository contains code and configuration files for Google Cloud Data Analytics Project.This project demonstrates the integration of several GCP services to create an efficient and automated data pipeline for sales data which has 100k+ rows
 
 
 
